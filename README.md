@@ -59,3 +59,6 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 2.async js文件
 3.压缩peperfmatters.js文件
 4.css文件媒体查询
+5.style.css 样式内嵌
+6.注释font css文件
+7.script标签移到最后面
